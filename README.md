@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![View counter](https://komarev.com/ghpvc/?username=embeddedk8)
+
 <!--
 **embeddedk8/embeddedk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
