@@ -2,9 +2,10 @@
 
 ![View counter](https://komarev.com/ghpvc/?username=embeddedk8)
 
-[![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=embeddedk8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=embeddedk8)](https://github.com/anuraghazra/github-readme-stats)
+
 **embeddedk8/embeddedk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
